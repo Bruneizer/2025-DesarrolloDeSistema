@@ -1,0 +1,5 @@
+/home/et12alumno/Descargas/2025-DesarrolloDeSistema/Supermercado/Biblioteca/obj/Debug/net8.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Descargas/2025-DesarrolloDeSistema/Supermercado/Biblioteca/obj/Debug/net8.0/Biblioteca.AssemblyInfoInputs.cache
+/home/et12alumno/Descargas/2025-DesarrolloDeSistema/Supermercado/Biblioteca/obj/Debug/net8.0/Biblioteca.AssemblyInfo.cs
+/home/et12alumno/Descargas/2025-DesarrolloDeSistema/Supermercado/Biblioteca/obj/Debug/net8.0/Biblioteca.csproj.CoreCompileInputs.cache
+/home/et12alumno/Descargas/2025-DesarrolloDeSistema/Supermercado/Biblioteca/obj/Debug/net8.0/Biblioteca.sourcelink.json

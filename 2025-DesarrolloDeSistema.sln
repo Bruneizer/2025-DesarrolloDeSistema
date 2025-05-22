@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Supermercado", "Supermercado", "{54E23218-DB23-40F0-8133-B6C01FB0D0E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca", "Supermercado\Biblioteca\Biblioteca.csproj", "{67AAB1D7-F9C6-4AF9-99B7-795057DA871E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consola", "Supermercado\Consola\Consola.csproj", "{58AA568A-DB46-4960-98FF-5A84B66B8FA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67AAB1D7-F9C6-4AF9-99B7-795057DA871E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AAB1D7-F9C6-4AF9-99B7-795057DA871E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AAB1D7-F9C6-4AF9-99B7-795057DA871E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AAB1D7-F9C6-4AF9-99B7-795057DA871E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58AA568A-DB46-4960-98FF-5A84B66B8FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AA568A-DB46-4960-98FF-5A84B66B8FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AA568A-DB46-4960-98FF-5A84B66B8FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AA568A-DB46-4960-98FF-5A84B66B8FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{67AAB1D7-F9C6-4AF9-99B7-795057DA871E} = {54E23218-DB23-40F0-8133-B6C01FB0D0E1}
+		{58AA568A-DB46-4960-98FF-5A84B66B8FA7} = {54E23218-DB23-40F0-8133-B6C01FB0D0E1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C41EA2C-F4BD-4AE1-A908-B1211A35EEAE}
+	EndGlobalSection
+EndGlobal
