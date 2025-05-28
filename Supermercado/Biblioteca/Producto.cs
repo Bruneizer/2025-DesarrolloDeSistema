@@ -11,11 +11,5 @@ public Producto(string nombre, decimal precioUnitario,int cantidadStock)
     Nombre = nombre;
     PrecioUnitario = precioUnitario;
     CantidadStock = cantidadStock;
-
 }
-
-    internal void Clear()
-    {
-        throw new NotImplementedException();
-    }
 }
