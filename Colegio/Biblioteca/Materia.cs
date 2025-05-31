@@ -2,12 +2,12 @@
 
 public class Materia
 {
-public string Nombre {get; set;}
-public int Nota { get; set; }
-List<Materia> Materia = new List<Materia>();
-public Materia(string nombre, int nota)
-{
-    Nombre = nombre;
-    Nota = nota;
-}
+    public string Nombre { get; set; }
+    public double Nota { get; set; }
+    public Materia(string nombre, double nota = 0)
+    {
+        Nombre = nombre;
+        Nota = nota;
+    }
+
 }

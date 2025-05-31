@@ -15,3 +15,15 @@ C:\Users\Lab15-PC01\Documents\GitHub\2025-DesarrolloDeSistema\Supermercado\Bibli
 C:\Users\Lab15-PC01\Documents\GitHub\2025-DesarrolloDeSistema\Supermercado\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
 C:\Users\Lab15-PC01\Documents\GitHub\2025-DesarrolloDeSistema\Supermercado\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
 C:\Users\Lab15-PC01\Documents\GitHub\2025-DesarrolloDeSistema\Supermercado\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
+C:\Users\carlo\OneDrive\Escritorio\POO\2025-DesarrolloDeSistema\Supermercado\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+C:\Users\carlo\OneDrive\Escritorio\POO\2025-DesarrolloDeSistema\Supermercado\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+C:\Users\carlo\OneDrive\Escritorio\POO\2025-DesarrolloDeSistema\Supermercado\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+C:\Users\carlo\OneDrive\Escritorio\POO\2025-DesarrolloDeSistema\Supermercado\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Escritorio\POO\2025-DesarrolloDeSistema\Supermercado\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\POO\2025-DesarrolloDeSistema\Supermercado\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\POO\2025-DesarrolloDeSistema\Supermercado\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\POO\2025-DesarrolloDeSistema\Supermercado\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json
+C:\Users\carlo\OneDrive\Escritorio\POO\2025-DesarrolloDeSistema\Supermercado\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+C:\Users\carlo\OneDrive\Escritorio\POO\2025-DesarrolloDeSistema\Supermercado\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+C:\Users\carlo\OneDrive\Escritorio\POO\2025-DesarrolloDeSistema\Supermercado\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+C:\Users\carlo\OneDrive\Escritorio\POO\2025-DesarrolloDeSistema\Supermercado\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll

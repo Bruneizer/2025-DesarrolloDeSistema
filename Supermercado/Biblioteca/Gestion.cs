@@ -27,10 +27,11 @@ public class Gestion
     }
     public void ModificarProducto(string nombreActual, string nuevoNombre, decimal nuevoPrecio, int nuevoStock)
     {
-        Producto producto = productos.FirstOrDefault(p => p.Nombre == nombreActual);
+        Producto producto = productos.FirstOrDefault(p => p.Nombre.Equals(nombreActual,StringComparison.OrdinalIgnoreCase));
         if (producto == null)
         {
             Console.WriteLine("No existe el producto");
+            // return;
         }
         else
         {

@@ -3,9 +3,16 @@ namespace Biblioteca;
 public class Curso
 {
     public string Nombre { get; set; }
-    List<Estudiante> Estudiantes = new List<Estudiante>();
-    public Curso();
+    List<Estudiante> estudiantes = new List<Estudiante>();
+    public List<Estudiante> Estudiantes => estudiantes;
+
+    public Curso(string nombre)
     {
-    Estudiantes = new List<Estudiante>();
+        Nombre = nombre;
+
+    }
+    public void AgregarEstudiante(Estudiante estudiante)
+    {
+        estudiantes.Add(estudiante);
     }
 }
