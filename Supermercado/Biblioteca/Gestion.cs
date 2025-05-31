@@ -23,7 +23,8 @@ public class Gestion
     }
     public bool ExisteProducto(string nombre)
     {
-        return productos.Any(p => p.Nombre == nombre);
+        return productos.Any(p =>!string.IsNullOrEmpty(p.Nombre) &&
+        p.Nombre.Trim().Equals(nombre.Trim(), StringComparison.OrdinalIgnoreCase));
     }
     public void ModificarProducto(string nombreActual, string nuevoNombre, decimal nuevoPrecio, int nuevoStock)
     {
