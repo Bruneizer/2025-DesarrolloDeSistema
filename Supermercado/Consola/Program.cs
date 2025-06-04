@@ -8,6 +8,7 @@ while (seguir)
     Console.WriteLine("2 =  Dar de baja ");
     Console.WriteLine("3  = Modificar producto ");
     Console.WriteLine("4 = Mostrar la lista de producto");
+    Console.WriteLine("5 = Comprar un producto");
     Console.WriteLine("Para salir presione cualquier tecla");
     string ingresado = Console.ReadLine();
     switch (ingresado)
@@ -50,6 +51,12 @@ while (seguir)
             default:
             Console.WriteLine("Saliendo del programa");
             seguir = false;
+            break;
+            case "5":
+                Console.WriteLine("Que producto desea comprar?: ");
+                string productoComprar = Console.ReadLine();
+                gestion.ComprarProducto(productoComprar);
+
             break;
 
 

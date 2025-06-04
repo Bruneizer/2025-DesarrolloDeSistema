@@ -4,6 +4,7 @@ namespace Biblioteca;
 public class Gestion
 {
     List<Producto> productos = new List<Producto>();
+    List<Ticket> tickets= new List<Ticket>();
     public void CrearProductos(Producto producto)
     {
         productos.Add(producto);
@@ -57,5 +58,22 @@ public class Gestion
             Console.WriteLine($"Cantidad de stock: {producto.CantidadStock}");
             Console.WriteLine("---------------------------------------------");
         }
+    }
+    public void ComprarProducto(string nombre)
+    {
+        bool productoComprar = ExisteProducto(nombre);
+        if(productoComprar == null)
+        {
+            Console.WriteLine("El producto no se encuentra o no existe");
+            return;
+        }
+        else
+        {  
+            tickets.Add(productos);
+
+            Console.WriteLine("Producto comprado con exito");
+            Console.WriteLine("Ticket:");
+        }
+
     }
 }
